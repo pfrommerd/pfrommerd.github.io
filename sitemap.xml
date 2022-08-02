@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://dan.pfrommer.us/</loc>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/categories/</loc>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/categories/posts/</loc>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/categories/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/posts/</loc>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/posts/lvssf/</loc>
+        <lastmod>2021-11-14</lastmod>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/tags/</loc>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/tags/post/</loc>
+    </url>
+    <url>
+        <loc>https://dan.pfrommer.us/tags/post/page/1/</loc>
+    </url>
+</urlset>
