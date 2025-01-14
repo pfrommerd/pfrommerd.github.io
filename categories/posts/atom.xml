@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Daniel Pfrommer - Posts</title>
+	<subtitle>A PhD Student at MIT</subtitle>
+	<link href="https://dan.pfrommer.us/categories/posts/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://dan.pfrommer.us"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-11-14T00:00:00+00:00</updated>
+	<id>https://dan.pfrommer.us/categories/posts/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Linear Variational State Space Filtering</title>
+		<published>2021-11-14T00:00:00+00:00</published>
+		<updated>2021-11-14T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://dan.pfrommer.us/posts/lvssf/" type="text/html"/>
+		<id>https://dan.pfrommer.us/posts/lvssf/</id>
+		<content type="html">&lt;p&gt;Hi!&lt;&#x2F;p&gt;
+&lt;p&gt;An extended version of my submission to L4DC 2022: “Linear Variational State Space Filtering” is available &lt;a href=&quot;&#x2F;papers&#x2F;lvssf.pdf&quot;&gt;here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
